@@ -1,3 +1,3 @@
-!#/bin/bash
+#!/bin/bash
 echo "HI"
 echo "Hello"
